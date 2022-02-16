@@ -1,4 +1,4 @@
-# Copy&Paste
+## Copy&Paste
 
 - [Ana Jiménez](https://github.com/Okia02)
 - [Ángeles Martínez](https://github.com/AngelesMB)
